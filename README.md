@@ -2,6 +2,9 @@
 
 ![alt text](https://github.com/tomokveld/RT/blob/main/examples/CSG_reflect.png?raw=true)
 
+A project I pursued to get a better understanding of the capabilities of modern C++. The code while my own, is based on algorithms and information obtained from: [TRTC](http://raytracerchallenge.com/) and [PBRT](pbr-book.org). All features were implemented using a TDD methodology in which features are described in terms of tests. All code was implemented such as to satisfy and pass each test.
+
+Features include everything as described in [TRTC](http://raytracerchallenge.com/) plus additions (e.g. more shapes).
 
 ### Non-exhaustive list of potential additions:
 
