@@ -1,5 +1,8 @@
 # RT: A rayracer implemented in C++
 
+![alt text](https://github.com/tomokveld/RT/blob/main/examples/CSG_reflect.png?raw=true)
+
+
 ### Non-exhaustive list of potential additions:
 
     - Clean up code
